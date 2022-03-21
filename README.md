@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning further and further.
 - 📫 How to reach me: marc.wegeleben@magenta.de
 
-[![trophy](https://github-profile-trophy.vercel.app/?MaRcR11)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
