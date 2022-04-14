@@ -7,7 +7,7 @@
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaRcR11&langs_count=10&layout=compact&theme=ayu-mirage&border_radius=0" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MaRcR11&show_icons=true&theme=radical"/>
 
 <!---
 MaRcR11/MaRcR11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
