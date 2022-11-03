@@ -10,7 +10,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MaRcR11&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 MaRcR11/MaRcR11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
