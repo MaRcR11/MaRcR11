@@ -2,6 +2,8 @@
 - 👀 I’m interested in Python, Web and future-oriented stuff.
 ---
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaRcR11&langs_count=10&layout=compact&theme=transparent&border_radius=0" />
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MaRcR11=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
