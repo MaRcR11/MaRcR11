@@ -4,7 +4,7 @@
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaRcR11&langs_count=10&layout=compact&theme=transparent&border_radius=0" />
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaRcR11&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRcR11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaRcR11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
