@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRcR11&layout=compact&theme=transparent&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaRcR11&theme=onedark&border_radius=0)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaRcR11&theme=transparent&border_radius=0)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
